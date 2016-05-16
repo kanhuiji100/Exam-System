@@ -4,6 +4,6 @@ build 001
 # config.ini
 client.exe need config.ini to run
 ------------------------------------------------------------------------------------
-[Server]
-IP=127.0.0.1
-Port=19730
+[Server]<br />
+IP=127.0.0.1<br />
+Port=19730<br />
