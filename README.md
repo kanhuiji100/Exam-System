@@ -1,6 +1,6 @@
 # Exam-System
-version alpha 0.1
-build 002<br />I forget to change the version number:D
+version alpha 0.2
+build 001<br />Client Added countdown, candidate rules page. Server can now send start time and duration to the client
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
