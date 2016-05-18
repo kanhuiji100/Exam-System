@@ -1,6 +1,6 @@
 # Exam-System
 version alpha 0.2
-build 001<br />Client Added countdown, candidate rules page. Server can now send start time and duration to the client
+build 002<br />修复BUG，加入文件传输功能但在我的计算机上测试失败。
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
