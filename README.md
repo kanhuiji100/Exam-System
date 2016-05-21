@@ -1,6 +1,6 @@
 # Exam-System
-version alpha 0.2
-build 002<br />修复BUG，加入文件传输功能但在我的计算机上测试失败。
+version alpha 0.3
+build 002<br />修复文件传输功能
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
