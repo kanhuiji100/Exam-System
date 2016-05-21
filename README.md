@@ -1,6 +1,6 @@
 # Exam-System
 version alpha 0.2
-build 003<br />修复文件传输功能
+build 004<br />加入文件传输功能,加入等待期间锁定键盘鼠标的功能。<br />锁定功能在Windows XP下不会锁定鼠标移动，在高版本Windows上会将鼠标移动一起锁定。
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
