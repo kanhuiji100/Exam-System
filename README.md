@@ -1,6 +1,6 @@
 ﻿# Exam-System
 version alpha 0.3
-build 001<br />修复BUG<br />加入数据库
+build 002<br />调整UI<br />加入压缩功能
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
