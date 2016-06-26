@@ -1,6 +1,6 @@
 ﻿# Exam-System
 version alpha 0.3
-build 002<br />调整UI<br />加入压缩功能
+build 003<br />加入列表（测试）<br />加入信息确认阶段的图片传送功能，图片应保存在D:\photo文件夹中并以相应的考生号为文件名。
 # config.ini
 client.exe need config.ini to run<br />
 <p></p>
