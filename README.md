@@ -1,6 +1,6 @@
 ﻿# Exam-System
 version alpha 0.3 
-build 005<br />加入提前收取某学生试卷的功能 # config.ini
+build 006<br />加入考生延时功能</br><h1> config.ini</h1>
 client.exe need config.ini to run<br />
 <p></p>
 [Server]<br />
