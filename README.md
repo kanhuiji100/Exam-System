@@ -1,6 +1,6 @@
 ﻿# Exam-System
-version alpha 0.3 
-build 006<br />加入考生延时功能</br><h1> config.ini</h1>
+version alpha 0.4 
+build 001<br />修复bug</br>加入照片传送功能</br><h1> config.ini</h1>
 client.exe need config.ini to run<br />
 <p></p>
 [Server]<br />
