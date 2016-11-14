@@ -1,6 +1,6 @@
 ﻿# Exam-System
 version alpha 0.4 
-build 002<br />修复图片模块中的重大bug</br><h1> config.ini</h1>
+build 003<br />完善错误反馈</br>添加文件夹不存在时的异常处理</br><h1> config.ini</h1>
 client.exe need config.ini to run<br />
 <p></p>
 [Server]<br />
